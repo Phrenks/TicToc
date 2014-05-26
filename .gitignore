@@ -1,0 +1,8 @@
+# Emacs backup files
+*~
+
+# Object files
+*.o
+
+# Test binary
+test
